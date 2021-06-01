@@ -7,8 +7,8 @@ sections:
     features: []
     feature_padding_vert: medium
     align: center
-    padding_top: medium
-    padding_bottom: medium
+    padding_top: small
+    padding_bottom: small
     has_border: true
     background_color: secondary
     background_image_opacity: 0
