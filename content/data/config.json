@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://be.me/netlify.app"
+    "domain": "https://be.me/netlify.app",
+    "favicon": "/images/E49F531E-3064-42A7-A2A7-EE786601A7BB.jpeg"
 }
