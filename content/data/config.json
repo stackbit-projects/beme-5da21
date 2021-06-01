@@ -4,8 +4,8 @@
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
-    "mode": "light",
-    "base_font": "serif",
+    "mode": "dark",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "images/classic/logo.svg",
