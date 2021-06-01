@@ -1,8 +1,8 @@
 ---
 title: BEME
 sections:
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - section_id: BegingMarginEdit
+    title: BEME
     subtitle: BEME
     features:
       - title: lorem-ipsum
