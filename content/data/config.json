@@ -21,7 +21,8 @@
                 "label": "Be.gin.ing",
                 "url": "/be.gin.ing",
                 "style": "link",
-                "icon": "arrow-right"
+                "icon": "arrow-right",
+                "icon_position": "center"
             },
             {
                 "label": "Style Guide",
