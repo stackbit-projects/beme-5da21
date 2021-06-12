@@ -240,7 +240,6 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
   extra:
     - name: 'og:type'
       value: website
