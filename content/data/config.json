@@ -10,7 +10,7 @@
         "title": "BEME",
         "logo": "/images/8DA595E4-0D7C-41E7-9EE6-F6C0EB230356.jpeg",
         "logo_alt": "Benefit Everyone’s Mutual Existence ",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Features",
