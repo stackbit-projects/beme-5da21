@@ -72,13 +72,7 @@ sections:
         media_width: fifty
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
