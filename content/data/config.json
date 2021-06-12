@@ -20,7 +20,8 @@
             {
                 "label": "Be.gin.ing",
                 "url": "/be.gin.ing",
-                "style": "link"
+                "style": "link",
+                "icon": "arrow-right"
             },
             {
                 "label": "Style Guide",
