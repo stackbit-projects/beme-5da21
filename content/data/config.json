@@ -2,7 +2,7 @@
     "title": "Selfish",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "bold",
+    "style": "minimal",
     "palette": "green",
     "mode": "dark",
     "base_font": "sans-serif",
