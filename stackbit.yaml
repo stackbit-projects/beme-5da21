@@ -462,11 +462,6 @@ models:
         label: Title
         description: The title of the page
         required: true
-      - type: model
-        name: seo
-        models:
-          - stackbit_page_meta
-        label: Seo
   section:
     type: object
     label: Section
